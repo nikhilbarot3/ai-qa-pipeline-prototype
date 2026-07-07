@@ -241,5 +241,5 @@ This is why DeepEval makes 2–3 API calls per metric rather than one — and wh
 
 ## Author
 
-**Nikhil Barot** — Senior QA Automation Engineer | AI/ML  
+**Nikhil Barot** — Senior QA Automation Engineer | AI/ML Engineer | Research engineer
 [LinkedIn](https://www.linkedin.com/in/nikhil-barot/) | nikhilbarot3@gmail.com
